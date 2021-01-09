@@ -3,4 +3,4 @@
 
 ## HackerRank
 
-![Badges](hackerrank_badges.png)
+![Badges](hackerrank_badges.PNG)
