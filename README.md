@@ -9,7 +9,7 @@
 | [mini-http-server](https://github.com/peter-szrnka/mini-http-server) | [![CodeQL](https://github.com/szrnka-peter/mini-http-server/actions/workflows/codeql.yml/badge.svg)](https://github.com/peter-szrnka/mini-http-server/actions/workflows/codeql.yml) | [![codecov](https://codecov.io/gh/szrnka-peter/mini-http-server/branch/master/graph/badge.svg)](https://codecov.io/gh/szrnka-peter/mini-http-server) | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=peter-szrnka_mini-http-server&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=peter-szrnka_mini-http-server) |
 
 ## AWS Badges
-<img src="aws_cloud_quest.png" width="25%" height="25%" /> <img src="aws_serverless_badge.png" width="25%" height="25%" />
+<img src="aws_cloud_quest.png" width="25%" height="25%" /> <img src="aws_serverless_badge.png" width="25%" height="25%" /><img src="aws_educate_security.png" width="25%" height="25%" />
 
 ## HackerRank
 ![Badges](hackerrank_badges.PNG)
