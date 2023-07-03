@@ -14,7 +14,7 @@ AWS Learning:
 <img src="aws_serverless_badge.png" width="25%" height="25%" />
 
 AWS Educate:<br/>
-<img src="aws_cloud_101.png" width="25%" height="25%" /><img src="aws_educate_security.png" width="25%" height="25%" /><img src="aws_educate_serverless.png" width="25%" height="25%" />
+<img src="aws_cloud_101.png" width="25%" height="25%" /><img src="aws_educate_security.png" width="25%" height="25%" /><img src="aws_educate_databases.png" width="25%" height="25%" /><img src="aws_educate_serverless.png" width="25%" height="25%" />
 
 ## HackerRank
 ![Badges](hackerrank_badges.PNG)
