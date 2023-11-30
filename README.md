@@ -12,7 +12,8 @@
 <img src="aws_knowledge_object_storage.png" width="20%" height="20%" /><img src="aws_knowledge_cloud_essentials.png" width="20%" height="20%" /><img src="aws_serverless_badge.png" width="20%" height="20%" /><img src="aws_cloud_quest.png" width="20%" height="20%" /><img src="aws_cloud_101.png" width="20%" height="20%" /><img src="aws_educate_security.png" width="20%" height="20%" /><img src="aws_educate_storage.png" width="20%" height="20%" /><img src="aws_educate_compute.png" width="20%" height="20%" /><img src="aws_educate_databases.png" width="20%" height="20%" /><img src="aws_educate_serverless.png" width="20%" height="20%" /><img src="aws_educate_networking.png" width="20%" height="20%" /><img src="aws_educate_cloud_ops.png" width="20%" height="20%" /><img src="aws_educate_web_builder.png" width="20%" height="20%" /><img src="aws_educate_ml_foundations.png" width="20%" height="20%" /><img src="aws_educate_ml_deepracer.png" width="20%" height="20%" />
 
 ## Other
-<img src="slack_basics.png" width="20%" height="20%" />
+<img src="slack_basics.png" width="20%" height="20%" /> <img src="postman_api_student_expert.png" width="20%" height="20%" />
+
 
 ## HackerRank
 ![Badges](hackerrank_badges.PNG)
