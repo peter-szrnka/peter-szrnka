@@ -1,7 +1,7 @@
 # Hi, I'm Peter!
-Lead Java Software Engineer with 10+ years of experience in the software engineering industry
+Lead Java Software Engineer with 10+ years of experience in the software engineering industry.
 
-## Currently used programming languages and tools
+<!--## Currently used programming languages and tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="50" height="50"/>
@@ -35,7 +35,7 @@ Lead Java Software Engineer with 10+ years of experience in the software enginee
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 </p>
-
+-->
 ## GitHub
 
 ### Stats
@@ -55,10 +55,10 @@ Lead Java Software Engineer with 10+ years of experience in the software enginee
 ## Training badges
 ### AWS
 <img src="aws_well-architected.png" width="10%" height="10%" /><img src="aws_knowledge_eks.png" width="10%" height="10%" /><img src="aws_serverless_badge.png" width="10%" height="10%" /><img src="aws_knowledge_cloud_essentials.png" width="10%" height="10%" /><img src="aws_knowledge_object_storage.png" width="10%" height="10%" /><img src="aws_cloud_quest.png" width="10%" height="10%" /><img src="aws_cloud_101.png" width="10%" height="10%" /><img src="aws_educate_security.png" width="10%" height="10%" /><img src="aws_educate_storage.png" width="10%" height="10%" /><img src="aws_educate_compute.png" width="10%" height="10%" /><img src="aws_educate_databases.png" width="10%" height="10%" /><img src="aws_educate_serverless.png" width="10%" height="10%" /><img src="aws_educate_networking.png" width="10%" height="10%" /><img src="aws_educate_cloud_ops.png" width="10%" height="10%" /><img src="aws_educate_web_builder.png" width="10%" height="10%" /><img src="aws_educate_ml_foundations.png" width="10%" height="10%" /><img src="aws_educate_ml_deepracer.png" width="10%" height="10%" />
-
+<!--
 ### Google Cloud
 <img src="rNuIoe5sEBtKT+pi0Xa98q5LXCRI9zM0AqD3RvIMLmQ=.png" width="20%" height="20%" />
-
+-->
 ### Other
 <img src="slack_basics.png" width="10%" height="10%" /> <img src="postman_api_student_expert.png" width="10%" height="10%" />
 
