@@ -1,7 +1,7 @@
 # Hi, I'm Peter!
 Lead Java Software Engineer with 10+ years of experience in the software engineering industry.
 
-<!--## Currently used programming languages and tools
+## Currently used programming languages and tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="50" height="50"/>
@@ -35,7 +35,7 @@ Lead Java Software Engineer with 10+ years of experience in the software enginee
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 </p>
--->
+
 ## GitHub
 
 ### Stats
