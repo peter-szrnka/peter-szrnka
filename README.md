@@ -56,10 +56,17 @@ Lead Java Software Engineer with 10+ years of experience in the software enginee
 ### AWS
 <img src="aws_well-architected.png" width="10%" height="10%" /><img src="aws_knowledge_eks.png" width="10%" height="10%" /><img src="aws_serverless_badge.png" width="10%" height="10%" /><img src="aws_knowledge_cloud_essentials.png" width="10%" height="10%" /><img src="aws_knowledge_object_storage.png" width="10%" height="10%" /><img src="aws_cloud_quest.png" width="10%" height="10%" /><img src="aws_cloud_101.png" width="10%" height="10%" /><img src="aws_educate_security.png" width="10%" height="10%" /><img src="aws_educate_storage.png" width="10%" height="10%" /><img src="aws_educate_compute.png" width="10%" height="10%" /><img src="aws_educate_databases.png" width="10%" height="10%" /><img src="aws_educate_serverless.png" width="10%" height="10%" /><img src="aws_educate_networking.png" width="10%" height="10%" /><img src="aws_educate_cloud_ops.png" width="10%" height="10%" /><img src="aws_educate_web_builder.png" width="10%" height="10%" /><img src="aws_educate_ml_foundations.png" width="10%" height="10%" /><img src="aws_educate_ml_deepracer.png" width="10%" height="10%" />
 <!--
+
 ### Google Cloud
 <img src="rNuIoe5sEBtKT+pi0Xa98q5LXCRI9zM0AqD3RvIMLmQ=.png" width="20%" height="20%" />
 -->
+
+### Observability
+
+<img src="datadog_backend_engineer.png" width="15%" height="15%" />
+
 ### Other
+
 <img src="slack_basics.png" width="10%" height="10%" /> <img src="postman_api_student_expert.png" width="10%" height="10%" />
 
 <!--
