@@ -1,5 +1,5 @@
 # Hi, I'm Peter!
-Lead Java Software Engineer with 10+ years of experience in the software engineering industry.
+Experienced Java Software Engineer with 15+ years of experience in the software engineering industry.
 
 ## Currently used programming languages and tools
 <p align="left">
