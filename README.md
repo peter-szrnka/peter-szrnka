@@ -65,7 +65,7 @@ Experienced Java Software Engineer with 15+ years of experience in the software 
 
 ### Observability
 
-<img src="datadog_backend_engineer.png" width="15%" height="15%" />
+<img src="datadog_backend_engineer.png" width="15%" height="15%" /><img src="datadog_core_skills.png" width="15%" height="15%" />
 
 ### Other
 
