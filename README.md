@@ -2,21 +2,9 @@
 Experienced Java Software Engineer with 15+ years of experience in the software engineering industry.
 
 ## Currently used programming languages and tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/confluence/confluence-original.svg" alt="confluence" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="postman" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="sonarqube" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-</p>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/confluence/confluence-original.svg" alt="confluence" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="postman" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="sonarqube" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+
 
 ## Used programming languages &amp; tools in hobby projects
 <p>
