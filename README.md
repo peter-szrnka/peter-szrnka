@@ -39,10 +39,13 @@ Experienced Java Software Engineer with 15+ years of experience in the software 
 </p>
 
 ## GitHub
-
+<!--
 ### Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-szrnka&show_icons=true&locale=en&layout=compact" alt="peter-szrnka" /><
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-szrnka&show_icons=true&locale=en" alt="peter-szrnka" />
+<div style="display:block">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-szrnka&show_icons=true&locale=en&layout=compact" alt="peter-szrnka" />
+</div>
+
+<hr>-->
 
 ### Featured Open source projects
 
