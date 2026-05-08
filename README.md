@@ -73,7 +73,8 @@ Experienced Java Software Engineer with 15+ years of experience in the software 
 ### Other
 
 <img src="slack_basics.png" width="10%" height="10%" /> <img src="postman_api_student_expert.png" width="10%" height="10%" />
-
+<img src="atlassian_01.png" width="10%" height="10%" /> <img src="atlassian_02.png" width="10%" height="10%" />
+<img src="atlassian_03.png" width="10%" height="10%" /> <img src="atlassian_04.png" width="10%" height="10%" />
 <!--
 ## HackerRank
 ![Badges](hackerrank_badges.PNG)
