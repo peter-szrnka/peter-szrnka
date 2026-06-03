@@ -1,7 +1,7 @@
 # Hi, I'm Peter!
 Experienced Java Software Engineer with 15+ years of experience in the software engineering industry.
 
-## Currently used programming languages and tools
+## Used programming languages and tools in work
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" align="left"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" align="left" />
@@ -20,7 +20,7 @@ Experienced Java Software Engineer with 15+ years of experience in the software 
 </p>
 
 
-## Used programming languages &amp; tools in hobby projects
+## Used programming languages and tools in my hobby projects
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" align="left"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50" align="left"/>
