@@ -18,7 +18,7 @@ Experienced Java Software Engineer with 15+ years of experience in the software 
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="postman" width="50" height="50" align="left"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="sonarqube" width="50" height="50" align="left"/>
 </p>
-
+<br /><br />
 
 ## Used programming languages and tools in my hobby projects
 <p>
